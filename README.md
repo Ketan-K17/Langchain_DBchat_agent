@@ -1,2 +1,5 @@
 # Langchain_DBchat_agent
-An AI - agent crafted in Langchain that interacts with your database for you, given a natural language prompt.
+
+- You will need an OpenAI api key to use this application.
+- the database used in project is Chinook.db. You can choose your desired database with no change to code.
+- Simply enter query in natural language in main.py, and run file (python main.py)
